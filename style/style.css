@@ -1,0 +1,59 @@
+/*h1 {
+    font-family: Arial, serif;
+    font-size: 60px;
+    text-decoration-line: underline;
+    text-decoration-color: #007bff;
+}
+table {
+    margin: 20px auto;
+    width: 60%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+th {
+    background-color: #007bff;
+    color:white;
+    padding: 17px;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+}
+
+#erro {
+    color: red;
+}
+
+.linhas-pares {
+    background-color: gray;
+}
+
+*/
+
+.flex {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    height: 100vh;
+ /* flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;*/
+
+}
+.filhos{
+    border: 1px solid red;
+    width: 300px;
+}
+
